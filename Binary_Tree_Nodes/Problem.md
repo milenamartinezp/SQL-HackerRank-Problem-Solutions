@@ -9,6 +9,12 @@ Leaf: If node is leaf node.
 Inner: If node is neither root nor leaf node.
 
 ## Sample Input
+| N | P |
+|---|---|
+| 1 | 2 |
+| 3 | 2 |
+| 6 | 8 |
+| 9 | 8 |
 
 ## Sample Output
 1 Leaf
