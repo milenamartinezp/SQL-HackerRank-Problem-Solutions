@@ -32,3 +32,4 @@ Inner: If node is neither root nor leaf node.
 
 ## Explanation
 The Binary Tree below illustrates the sample:
+![Binary Tree Image](/Users/milenamartinezp/Documents/Portfolio/SQL-HackerRank-Problem-Solutions/Binary_Tree_Nodes/BinaryTree_Image.png)
