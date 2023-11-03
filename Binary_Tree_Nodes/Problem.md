@@ -1,4 +1,4 @@
-# Binary Tree Nodes Problem
+# Binary Tree Nodes Problem 🌳🧮
 
 ## Description
 You are given a table, BST, containing two columns: N and P, where N represents the value of a node in Binary Tree, and P is the parent of N.
@@ -32,4 +32,7 @@ Inner: If node is neither root nor leaf node.
 
 ## Explanation
 The Binary Tree below illustrates the sample:
-![Binary Tree Image](Binary_Tree_Nodes/BinaryTree_Image.jpg)
+
+![Binary Tree Image](./BinaryTree_Image.jpg)
+
+### 🔗 [HackerRank Problem Webpage](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=false)
