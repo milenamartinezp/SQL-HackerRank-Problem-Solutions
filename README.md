@@ -11,7 +11,7 @@ To access the solutions, simply browse the repository's file structure. Problem 
 
 ## File Structure
 - `Problem.md`: Description of the problem and link to HackerRank.
-- `Solution.sql`: SQL code solution for Problem 1.
+- `Solution.sql`: SQL code solution for the problem.
 
 ## Contributing
 If you have additional solutions to these problems or want to improve existing ones, feel free to create pull requests. Contributions are always welcome! 😊
