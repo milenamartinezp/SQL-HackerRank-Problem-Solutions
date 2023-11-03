@@ -15,8 +15,12 @@ Inner: If node is neither root nor leaf node.
 | 3 | 2 |
 | 6 | 8 |
 | 9 | 8 |
+| 2 | 5 |
+| 8 | 5 |
+| 5 | null |
 
 ## Sample Output
+```
 1 Leaf
 2 Inner
 3 Leaf
@@ -24,6 +28,7 @@ Inner: If node is neither root nor leaf node.
 6 Leaf
 8 Inner
 9 Leaf
+```
 
 ## Explanation
 The Binary Tree below illustrates the sample:
