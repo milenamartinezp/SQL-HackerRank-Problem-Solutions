@@ -7,7 +7,7 @@ This repository contains my solutions to various SQL challenges and problems fro
 - [Contributing](#contributing)
 
 ## Getting Started
-To access the solutions, simply browse the repository's file structure. Problem descriptions are provided in markdown files, and SQL code solutions are stored in separate SQL files. Each problem is well-documented with a description in the "Problem.md" file and the SQL solution in a corresponding "Solution.sql" file.
+To access the solutions, simply browse the repository's file structure. Each problem is well-documented with a description in the "Problem.md" file and the SQL solution in a corresponding "Solution.sql" file.
 
 ## File Structure
 - `Problem.md`: Description of the problem and link to HackerRank.
